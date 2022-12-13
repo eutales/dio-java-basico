@@ -6,7 +6,7 @@ public class TiposVariaveis {
 		// TODO Auto-generated method stub
 		double salarioMinimo = 2500;
 		float teste = 250.0F;
-		final String CON = "Teste";
+		final String CON = "Teste ";
 		
 		
 	}
